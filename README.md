@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 🔭 I'm a dedicated **Full-Stack Developer** with experience in building fast, reliable, and user-focused web applications.
+- 🔭 I'm a **Full-Stack Developer** with experience in building fast, reliable, and user-focused web applications.
 - 🎯 I specialize in crafting modern frontends with **React** and **TypeScript**, and robust backends using **Node.js**, **SQL**, and **REST/GraphQL APIs**.
 - 🌱 Whether I’m working on UI performance or building out server logic, I love solving real-world problems with clean, scalable code.
 - 👩‍💻 I enjoy bringing products to life — from Figma designs to production-ready apps.
-- 🔎 I'm currently open to opportunities in **Full-Stack** or **Front-End Development**, where I can continue creating intuitive, performant, and maintainable solutions.
+- 🔎 I'm currently open to opportunities in **Full-Stack/Front-End Development** based in Canada, where I can continue creating intuitive, performant, and maintainable solutions.
 
 ---
 ### 🛠 Tech Stack
