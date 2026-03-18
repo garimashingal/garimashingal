@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👩‍💻 Full-Stack Developer with experience in building scalable, performance-driven web applications.
 - 🎯 Specializing in React, Javascript, Node.js, and REST/GraphQL APIs with a passion for clean, user-centered design.
 - 🌱 Whether I’m working on UI performance or building out server logic, I love solving real-world problems with clean, scalable code.
-- 🤖 Actively learning and exploring the world of **AI**, with a focus on practical applications in web development and user experience.
+- 🤖 Actively leverages AI-assisted development tools to accelerate delivery, enhance code quality, enable safe refactoring, and ensure validated, production-ready outputs.
 - 🚀 Currently open to full-time roles in front-end or full-stack development.
 
 ---
